@@ -1,0 +1,9 @@
+{
+  "name": "independent",
+  "description": "Autonomous task-driven loop that works through TASKLIST.md independently",
+  "version": "1.0.0",
+  "author": {
+    "name": "James Pritchard",
+    "email": "local@localhost"
+  }
+}
