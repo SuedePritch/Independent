@@ -2,7 +2,7 @@
   "name": "jamespritchard-plugins",
   "owner": {
     "name": "James Pritchard",
-    "email": "local@localhost"
+    "email": "james.edward.pritchard@gmail.com"
   },
   "metadata": {
     "description": "Claude Code plugins for team distribution",
@@ -31,7 +31,13 @@
       "source": "./plugins/plugin-development",
       "category": "developer-tools",
       "tags": ["development", "plugins", "scaffold", "validation", "tools"],
-      "keywords": ["claude-code", "plugins", "developer-tools", "scaffold", "validation"]
+      "keywords": [
+        "claude-code",
+        "plugins",
+        "developer-tools",
+        "scaffold",
+        "validation"
+      ]
     }
   ]
 }
